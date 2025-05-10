@@ -1,5 +1,4 @@
 # Sat.
-Descriere
 Aici am implementat trei metode:
 
 DP (dp.cpp)
